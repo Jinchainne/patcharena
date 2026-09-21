@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 export const metadata: Metadata = {
- metadataBase: new URL("https://patcharena.vercel.app"),
+ metadataBase: new URL("https://patcharena-three.vercel.app"),
  title: "PatchArena — prove the patch",
  description: "Consensus-reviewed software bounties on GenLayer",
  icons: { icon: "/patcharena-logo.png", apple: "/patcharena-logo.png" },
