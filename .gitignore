@@ -1,0 +1,9 @@
+node_modules
+.next
+.env.local
+.vercel
+coverage
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+*.log
