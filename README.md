@@ -28,8 +28,8 @@ npm run dev
 ## Live deployment
 
 - Network: GenLayer Bradbury testnet (`chainId 4221`)
-- Contract: `0xDe9546aC8425A2c8E1578e30AAA8B1d2c6E9781E`
-- Deployment transaction: `0xeb4d199ddc709bd09a41daa733d93d0ed7a3467737b3672dfd84dd8665c9a9c6`
+- Contract: `0xf2a588Dc1954e17AB83cBea58CFFdb4E8D9A38A8`
+- Deployment transaction: `0xcb1fdf49449ff362af77396aeee01246cc942dada363758f4a072122f8db95b8`
 
 Set `NEXT_PUBLIC_CONTRACT_ADDRESS` to that address for local or hosted builds.
 
